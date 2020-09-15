@@ -35,3 +35,7 @@
 Квалификация|инженер-программист
 
 <hr/>
+
+### Контакты
+* Skype: destroyloker
+* [Email](mailto://raivon.frost@gmail.com)
