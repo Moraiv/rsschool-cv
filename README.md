@@ -1,1 +1,1 @@
-https://your-github-account.github.io/Moraiv/cv
+https://moraiv.github.io/rsschool-cv/cv
