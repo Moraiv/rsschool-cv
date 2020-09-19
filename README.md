@@ -1,1 +1,1 @@
-https://your-github-account.github.io/Moraiv/cv.md
+https://your-github-account.github.io/Moraiv/cv
