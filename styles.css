@@ -1,1 +1,59 @@
+.header {
+    font: 18px Comic Sans MS, Arial, Avantgarde sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header:after {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: slategray;
+}
+
+.content {
+    position: center;
+}
+
+.cv {
+    font: 18px Comic Sans MS, Arial, Avantgarde sans-serif;
+    line-height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.avatar {
+    margin: 2vh auto;
+    display: block;
+    border-color: slategray;
+    border-style: double;
+}
+
+.table {
+    border: 1px solid grey;
+    margin-top: 2vh;
+}
+
+th {
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
+
+.lastItemList:after {
+    margin-top: 2vh;
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: slategray;
+}
+
+.itemList {
+    margin-bottom: 2vh;
+}
 
