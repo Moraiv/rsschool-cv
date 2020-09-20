@@ -1,1 +1,2 @@
-https://your-github-account.github.io/Moraiv/cv
+# rsschool-cv
+[CV markdown](https://moraiv.github.io/rsschool-cv/cv)
